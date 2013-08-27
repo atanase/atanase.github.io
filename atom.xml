@@ -4,7 +4,7 @@
   <title><![CDATA[a blog]]></title>
   <link href="http://atanase.betaver.com/atom.xml" rel="self"/>
   <link href="http://atanase.betaver.com/"/>
-  <updated>2013-08-09T23:29:31+02:00</updated>
+  <updated>2013-08-27T16:26:28+02:00</updated>
   <id>http://atanase.betaver.com/</id>
   <author>
     <name><![CDATA[Atsushi Tanase]]></name>
@@ -74,9 +74,10 @@
 
 <hr />
 
-<h2>Hello, again. 再びこんにちわ。</h2>
+<h2>Hello, again. 再びこんにちは。</h2>
 
-<p>ニホンゴで書きますと、こんな感じです。</p>
+<p>ニホンゴで書きますと、こんな感じです。
+テストしています。</p>
 
 <hr />
 ]]></content>
